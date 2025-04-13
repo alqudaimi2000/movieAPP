@@ -16,7 +16,6 @@
 
 ## 🧰 Tech Stack
 
-> Replace with your actual stack
 
 **Frontend**
 - React.js (or Next.js)
